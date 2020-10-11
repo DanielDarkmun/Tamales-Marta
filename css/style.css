@@ -253,6 +253,9 @@ img {
 .barra .navegacion a:hover{
   color:#802f01;
 }
+.texto-nosotros span{
+  font-weight: bold;
+}
 @media (min-width:480px){
   .nosotros-cont{
     display: flex;
