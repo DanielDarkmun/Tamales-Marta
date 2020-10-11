@@ -62,6 +62,9 @@ img {
 .mt-1{
   margin-top: 1rem;
 }
+.mb-2{
+  margin-bottom: 2rem;
+}
 /*Botones*/
 .btn {
   display: block;
