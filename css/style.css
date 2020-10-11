@@ -311,7 +311,11 @@ label{
   font-weight: 700;
   text-transform: uppercase;
   display: block;
+  color: #dd5a0e;
 } 
+.color-naranaja{
+  color:#dd5a0e;
+}
 input:not([type="submit"]),
 textarea, 
 select{
